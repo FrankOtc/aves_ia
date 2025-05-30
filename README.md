@@ -1,5 +1,5 @@
-# Para Ejecutar (en la terminal) 
+#Paso 01:  Para Ejecutar (terminal) 
 python -m http.server 8000
 
-# En el navegador
+# Paso 02: En el navegador
 http://localhost:8080/
